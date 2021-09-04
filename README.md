@@ -2,7 +2,9 @@
 
 ## Getting started
 
-TBD
+```bash
+./siesta.exe --otp <REDACTED> --process "minecraft,java"
+```
 
 ## License
 
